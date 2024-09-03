@@ -45,9 +45,9 @@
 
 
 // function exam(){
-//     let a =1;
+//     var a =1;
 //     if(true){
-//         let a =2;
+//         var a =2;
 //         console.log(a);
         
 //     }
