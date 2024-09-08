@@ -9,5 +9,9 @@ let num = 10n
 
 let bitint_inNumber = Number (num)
 
-// console.log(typeof bitint_inNumber);
-// console.log( bitint_inNumber);
+console.log(typeof bitint_inNumber);
+console.log( bitint_inNumber);
+
+
+// ******************* OPERATIONS ***************
+
