@@ -25,13 +25,6 @@ const num2 = 10000000000;
 let min = 1;
 let max = 4;
 
-let value = Math.floor(Math.random()*(max-min)+1);
+let value = Math.floor(Math.random() * (max-min+1));
 console.log(value);
 
-if(value == 1){
-    console.log(rock);
-    
-}
-else{
-    console.log(paper);
-}
