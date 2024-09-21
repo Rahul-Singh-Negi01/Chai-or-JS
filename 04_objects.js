@@ -35,6 +35,14 @@ const obj3 = {
 }
 
 const newobj = {...obj1,...obj2,...obj3}
-const newobj1 = Object.assign({},obj1,obj2,obj3)
-console.log(newobj);
-console.log(newobj1);
+// const newobj1 = Object.assign({},obj1,obj2,obj3)
+// console.log(newobj);
+// console.log(newobj1);
+
+
+console.log(Object.keys(newobject));
+console.log(Object.values(newobject));
+// console.log(Object.entries(newobject));
+console.log(Object.entries(newobject.fullname.username));
+
+// hasownproperty
