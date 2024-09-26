@@ -1,2 +1,2 @@
-const newobj = {1:20}
-console.log(newobj);
+// const newobj = {1:20}
+// console.log(newobj);
