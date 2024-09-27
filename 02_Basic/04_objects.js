@@ -40,9 +40,21 @@ const newobj = {...obj1,...obj2,...obj3}
 // console.log(newobj1);
 
 
-console.log(Object.keys(newobject));
-console.log(Object.values(newobject));
+// console.log(Object.keys(newobject));
+// console.log(Object.values(newobject));
 // console.log(Object.entries(newobject));
-console.log(Object.entries(newobject.fullname.username));
+// console.log(Object.entries(newobject.fullname.username));
 
 // hasownproperty
+
+const course = {
+    coursename: "js",
+    price: "999",
+    courseinstructor:"hitesh"
+}
+
+// console.log(course.courseinstructor);
+
+const {courseinstructor,price,coursename} = course
+// console.log(courseinstructor);
+// console.log(price);
