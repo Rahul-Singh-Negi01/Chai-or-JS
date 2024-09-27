@@ -51,6 +51,8 @@ const user = {
     price:199
 }
 
+// ===== objects in function =====
+
 function handleobj(anyobject){
     // console.log(`user name is ${anyobject.username} and price is ${anyobject.price}`);
     
@@ -61,3 +63,15 @@ handleobj({
     username:"negi",
     price:1000000
 });
+
+// ===== Array in function =====
+
+const arr = [400,150,2,34,5]
+
+function returnarr(getarray){
+    return getarray[0]
+}
+
+// console.log(returnarr(arr));
+console.log(returnarr([50000,400,300]));
+
