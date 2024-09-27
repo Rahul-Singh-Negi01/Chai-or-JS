@@ -47,6 +47,9 @@ const newobj = {...obj1,...obj2,...obj3}
 
 // hasownproperty
 
+
+// ==========Destructure========
+
 const course = {
     coursename: "js",
     price: "999",
@@ -58,3 +61,17 @@ const course = {
 const {courseinstructor,price,coursename} = course
 // console.log(courseinstructor);
 // console.log(price);
+
+
+ // ====== APIs======
+
+// {
+//     "name":"rahul"
+
+// }
+
+[
+    {},
+    {},
+    {}
+]
