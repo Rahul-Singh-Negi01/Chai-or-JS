@@ -46,4 +46,4 @@ const two = function(num){
     return num+2
 }
 
-// console.log(two(5));
+console.log(two(5));
