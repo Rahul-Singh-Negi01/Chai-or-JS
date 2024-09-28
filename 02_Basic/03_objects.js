@@ -50,3 +50,26 @@ let userdetail = {
 // delete userdetail.caste
 // console.log(userdetail);
 
+function makeuser(user_name,user_age){
+    return{
+        name:user_name,
+        age:user_age
+    };
+}
+
+let user1 = makeuser("rahul",20)
+// console.log(user1);
+
+const person = {
+    name: ["Bob", "Smith"],
+    age: 32,
+    bio: function () {
+      console.log(`${this.name[0]} and ${this.name[1]} are ${this.age} years old.`);
+    },
+    introduceSelf: function () {
+      console.log(`Hi! I'm ${this.name[0]}.`);
+    },
+  };
+
+  person.bio()
+  person.introduceSelf()
