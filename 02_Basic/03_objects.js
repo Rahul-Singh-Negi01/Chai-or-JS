@@ -71,5 +71,24 @@ const person = {
     },
   };
 
-  person.bio()
-  person.introduceSelf()
+//   person.bio()
+//   person.introduceSelf()
+
+function increaseCounterObject(objectCounter) {
+    objectCounter.counter += 1;
+    console.log(objectCounter);
+    
+  }
+  
+  function increaseCounterPrimitive(primitiveCounter) {
+    primitiveCounter += 1;
+    console.log(primitiveCounter);
+    
+  }
+  
+  const object = { counter: 0 };
+  let primitive = 0;
+  
+  increaseCounterObject(object);
+  increaseCounterPrimitive(primitive);
+  

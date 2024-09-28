@@ -73,5 +73,5 @@ function returnarr(getarray){
 }
 
 // console.log(returnarr(arr));
-console.log(returnarr([50000,400,300]));
+// console.log(returnarr([50000,400,300]));
 
