@@ -20,8 +20,28 @@ const user = {
 // user.username  = "piyush"
 // user.WelcomeMessage()
 // console.log(this);
+
+//============= ARROW in function =============
+
 // function chai(){
 //     let username = "rahul"
 //     console.log(this.username);
 // }
 // chai()
+
+// const chai = function(){
+//     let username = "rahul"
+//     console.log(this.username);
+// }
+
+// chai()
+
+// const chai = ()=>{
+    
+//     console.log(this);
+// }
+
+// chai()
+
+
+
