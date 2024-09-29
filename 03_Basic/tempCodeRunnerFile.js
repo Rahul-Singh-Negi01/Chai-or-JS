@@ -1,2 +1,3 @@
 
-        // console.log(web);   
+user.username  = "piyush"
+user.WelcomeMessage()
