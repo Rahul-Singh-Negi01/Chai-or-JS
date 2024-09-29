@@ -19,4 +19,9 @@ const user = {
 // user.WelcomeMessage()
 // user.username  = "piyush"
 // user.WelcomeMessage()
-console.log(this);
+// console.log(this);
+// function chai(){
+//     let username = "rahul"
+//     console.log(this.username);
+// }
+// chai()
