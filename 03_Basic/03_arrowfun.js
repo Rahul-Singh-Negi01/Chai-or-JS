@@ -43,5 +43,15 @@ const user = {
 
 // chai()
 
+// ====== ARROW FUNTION =======
+
+// const addition = (num1,num2,num3) => {
+    
+//     console.log(num1+num2+num3);
+// }
+// addition(2,3,4)
 
 
+const addition = (num1,num2,num3) =>  console.log(num1+num2+num3);
+
+addition(2,3,4)
