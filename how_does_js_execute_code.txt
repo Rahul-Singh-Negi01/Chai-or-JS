@@ -1,9 +1,21 @@
 JS Execution context
 
-1st Phase:-
-            
+1.Global Execution context
+2.Functon Execution context
+3.Eval Execution context
+
+Steps for JS code Execution
+
+Step1. Global Execution->this
+
+Step2. Memory Creation Phase
+
+val1 -> undifined
+val2 -> undifined
+addnum -> defination
+result1 -> undifined
+result2 -> undifined
+
+Step3. Execution Phase
 
 
-
-
-2nd Phase:-
