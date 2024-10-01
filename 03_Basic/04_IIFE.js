@@ -2,10 +2,10 @@
 
 (function chai(){
     console.log("rahul");
-    
+    // named IIFE
 })();
 
 ( ()=>{
     console.log("negi");
-    
+     // Unnamed IIFE
 })()
