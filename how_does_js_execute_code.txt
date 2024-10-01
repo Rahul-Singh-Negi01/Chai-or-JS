@@ -1,0 +1,9 @@
+JS Execution context
+
+1st Phase:-
+            
+
+
+
+
+2nd Phase:-
