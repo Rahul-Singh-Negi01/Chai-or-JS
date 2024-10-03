@@ -68,7 +68,7 @@ handleobj({
 
 const arr = [400,150,2,34,5]
 
-// function returnarr(getarray){
+function returnarr(getarray){
     return getarray[0]
 }
 
