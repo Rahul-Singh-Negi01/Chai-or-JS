@@ -31,27 +31,27 @@
 // }
 // console.log(`User power: ${power}`);
 
-if(true) {
-    // console.log(123);   
-}
+// if(true) {
+//     // console.log(123);   
+// }
     
-// // // Nesting // // //
+// // // // Nesting // // //
 
-const balance =1000;
+// const balance =1000;
 
-if (balance < 500) {
+// if (balance < 500) {
     
-}
-else if (balance < 750) {
-    console.log("less than 750");
+// }
+// else if (balance < 750) {
+//     console.log("less than 750");
     
-}
-else if (balance < 800) {
-    console.log("less than 800");
+// }
+// else if (balance < 800) {
+//     console.log("less than 800");
     
-}
-else {
-    console.log("less than 1000");
+// }
+// else {
+//     console.log("less than 1200");
 
-}
+// }
     
