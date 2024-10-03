@@ -6,6 +6,6 @@
 })();
 
 ( ()=>{
-    console.log("negi");
+    // console.log("negi");
      // Unnamed IIFE
 })()
